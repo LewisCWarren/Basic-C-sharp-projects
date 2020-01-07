@@ -1,0 +1,6 @@
+C:\Users\Student\Basic-C-Sharp\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe.config
+C:\Users\Student\Basic-C-Sharp\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe
+C:\Users\Student\Basic-C-Sharp\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.pdb
+C:\Users\Student\Basic-C-Sharp\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.csprojAssemblyReference.cache
+C:\Users\Student\Basic-C-Sharp\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.exe
+C:\Users\Student\Basic-C-Sharp\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.pdb
