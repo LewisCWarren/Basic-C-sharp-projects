@@ -8,10 +8,10 @@ using System.Collections.Generic;
         static void Main()
         {
 
-        List<int> intList = new List<int>();
-        intList.Add(4);
-        intList.Add(10);
-        intList.Remove(10);
+        List<string> intList = new List<string>();
+        intList.Add("Hello,");
+        intList.Add("World");
+        intList.Remove("World");
 
         Console.WriteLine(intList[0]);
         Console.ReadLine();
