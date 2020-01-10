@@ -7,24 +7,24 @@ using System.Collections.Generic;
         static void Main(string[] args)
         {
 
-        //    string[] countries =  { "U.S.A", "Canada", };
+        string[] countries = { "U.S.A", "Canada", };
 
-        //    Console.WriteLine("name a country. U.S.A., and Canada are already present");
+        Console.WriteLine("name a country. U.S.A., and Canada are already present");
 
-        //    string userCountry = Console.ReadLine();
+        string userCountry = Console.ReadLine();
+
+
+
+        for (int i = 0; i < countries.Length; i++)
+        {
+            Console.WriteLine(countries[i] + " " + userCountry);
+
+        }
 
         
 
-        //for (int i = 0; i < countries.Length; i++)
-        //{
-        //    Console.WriteLine(countries[i]);  
-            
-        //}
 
-        //Console.WriteLine(userCountry);
-
-
-        //Console.ReadLine();
+        Console.ReadLine();
 
         //for (int i = 0; i < countries.Length; i++)
         //{
@@ -44,7 +44,7 @@ using System.Collections.Generic;
         //    Console.WriteLine(countries[0]);
         //}
 
-        //for (int i = 0; i <= countries.Length + 1; i++)
+        //for (int i = 0; i <= 1; i++)
         //{
         //    Console.WriteLine(countries[i]);
         //}
@@ -55,23 +55,22 @@ using System.Collections.Generic;
         //Console.WriteLine("Please enter a search term for the string");
         //string userSearch = Console.ReadLine();
 
-
-        //foreach (string name in names)
+        //for (int i = 0; i < names.Count; i++)
         //{
-        //    bool found = name.Contains(userSearch);
-        //    if (found == true)
+        //    if (userSearch == names[i])
         //    {
-        //        Console.WriteLine(name);
+        //        Console.WriteLine(i);
         //        break;
 
         //    }
 
-        //    else if (!found)
+        //    else if (i == 6)
         //    {
-        //        Console.WriteLine("No matching text found in the list.");
-        //        break;
+        //        Console.WriteLine("That value is not included in the array");
         //    }
         //}
+
+
         //Console.ReadLine();
 
         //List<string> names = new List<string>() { "Lewis", "Grant", "Dave", "Ryan", "Mick", "Kayla", "Thea", "Lewis" };
@@ -83,50 +82,48 @@ using System.Collections.Generic;
 
         //for (int i = 0; i < names.Count; i++)
         //{
-
-        //bool found = names[i].Contains(userSearch);
-        //    if(found == true)
+        //    int result = 0;
+        //    if (userSearch == names[i])
         //    {
         //        Console.WriteLine(i);
-
+        //        result++;
 
         //    }
 
-        //    else
+        //    else if (i == names.Count && result == 0)
         //    {
-        //        Console.WriteLine("There is no matching text found.");
+        //        Console.WriteLine("That value is not included in the array");
         //    }
         //}
+
+
         //Console.ReadLine();
 
-        List<string> names = new List<string>() { "Lewis", "Grant", "Dave", "Ryan", "Mick", "Kayla", "Thea", "Lewis", "Lewis" };
+        //List<string> names = new List<string>() { "Lewis", "Grant", "Dave", "Ryan", "Mick", "Kayla", "Thea", "Lewis", "Lewis" };
 
-        Console.WriteLine("Please enter a search term for the string");
-        string userSearch = Console.ReadLine();
-        int i = 0;
+        //Console.WriteLine("Please enter a search term for the string");
+        //string userSearch = Console.ReadLine();
+        //List<string> newList = new List<string>();
 
-        foreach (string name in names)
-        {
-            bool found = name.Contains(userSearch);
-            
+        
+        //foreach (string name in names)
+        //{
 
-
-            if (found == true)
-            {
-                i++;
+        //  if (newList.Contains(name))
+        //    {
+        //        Console.WriteLine(name + "This name is already present on new list");
                 
-                Console.WriteLine(name);
-                if (i >= 2)
-                {
-                        Console.WriteLine("This value has appeared " + i + " times.");
-                }
-                
+        //    }
 
-                
-            }
-            
-        }
-        Console.ReadLine();
+        //  else if (!newList.Contains(name))
+        //    {
+        //        newList.Add(name);
+        //    }
+        //}
+
+        
+
+        //Console.ReadLine();
 
 
     }
