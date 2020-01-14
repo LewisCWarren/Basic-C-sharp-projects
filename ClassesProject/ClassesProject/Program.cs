@@ -12,10 +12,14 @@ namespace ClassesProject
         {
             Math mathOperation = new Math();
             
+            
             Console.WriteLine("Please enter a number to perform the operation on");
             int userNum = Convert.ToInt32(Console.ReadLine());
+            int resultAdd = mathOperation.Addition(userNum);
+            int resultSubtract = mathOperation.Subtraction(resultAdd);
+            int resultDivide = mathOperation.Division(resultSubtract);
 
-            Console.WriteLine("After adding 100, subtracting 33, and dividing by 7, the number you entered amounts to" + mathOperation.Result(userNum));
+            Console.WriteLine("After adding 100, subtracting 33, and dividing by 7, the number you entered amounts to " + resultDivide);
             Console.ReadLine();
         }
     }

@@ -18,28 +18,23 @@ namespace ClassesProject
         }
 
         int Add { get; set; }
-
-        public int Subtraction( int Add)
+        
+        public int Subtraction( int resultAdd)
         {
-            Subtract = 33 - Add;
+            Subtract = resultAdd - 33;
             return Subtract;
         }
 
         int Subtract { get; set; }
 
-        public int Division (int Subtract)
+        public int Division (int resultSubtract)
         {
-            Divide = Subtract / 7;
+            Divide = resultSubtract / 7;
             return Divide;
         }
 
         int Divide { get; set; }
 
-        public int Total()
-        {
-            Result = Add + Subtract + Divide;
-            return Result;
-        }
-        int Result { get; set; }
+        
     }
 }
