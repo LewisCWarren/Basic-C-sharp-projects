@@ -1,0 +1,7 @@
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ClassesProjectPg161\ClassesProjectPg161\bin\Debug\ClassesProjectPg161.exe.config
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ClassesProjectPg161\ClassesProjectPg161\bin\Debug\ClassesProjectPg161.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ClassesProjectPg161\ClassesProjectPg161\bin\Debug\ClassesProjectPg161.pdb
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ClassesProjectPg161\ClassesProjectPg161\obj\Debug\ClassesProjectPg161.csprojAssemblyReference.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ClassesProjectPg161\ClassesProjectPg161\obj\Debug\ClassesProjectPg161.csproj.CoreCompileInputs.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ClassesProjectPg161\ClassesProjectPg161\obj\Debug\ClassesProjectPg161.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ClassesProjectPg161\ClassesProjectPg161\obj\Debug\ClassesProjectPg161.pdb
