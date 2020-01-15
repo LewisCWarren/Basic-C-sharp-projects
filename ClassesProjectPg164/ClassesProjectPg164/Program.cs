@@ -11,11 +11,10 @@ namespace ClassesProjectPg164
         static void Main(string[] args)
         {
             Math mathOperation = new Math();
-
-            Console.WriteLine("Please enter a number.");
-            int userNum = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("the number provided divided by 2 = ");
-            mathOperation.Division(userNum);
+            Console.WriteLine("please enter a number.");
+            mathOperation.Division(out int userNum);
+            Console.WriteLine("the number provided divided by 2 = " + userNum);
+            
             Console.ReadLine();
             
 
@@ -23,4 +22,6 @@ namespace ClassesProjectPg164
 
 
     }
+
+   
 }

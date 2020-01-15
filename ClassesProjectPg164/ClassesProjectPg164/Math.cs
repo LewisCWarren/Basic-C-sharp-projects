@@ -8,11 +8,10 @@ namespace ClassesProjectPg164
 {
     public class Math
     {
-        public void Division(int userNum)
+        public void Division(out int userNum)
         {
-            Divide = userNum / 2;
-            string result = Convert.ToString(Divide);
-            Console.WriteLine(result);
+            userNum = Convert.ToInt32(Console.ReadLine()) / 2;
+
         }
         public int Divide { get; set; }
 
@@ -32,3 +31,5 @@ namespace ClassesProjectPg164
         int Subtract2 { get; set; }
     }
 }
+
+   
