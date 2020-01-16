@@ -15,9 +15,10 @@ namespace InheritanceClassProject
         }
 
 
-        public void Quit()
+        public void Quit(out int x)
         {
             Console.WriteLine("Quitting");
+             x = 5;
         }
 
         
