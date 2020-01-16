@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InheritanceClassProject
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
@@ -14,6 +14,13 @@ namespace InheritanceClassProject
             
         }
 
+
+        public void Quit()
+        {
+            Console.WriteLine("Quitting");
+        }
+
+        
 
 
     }

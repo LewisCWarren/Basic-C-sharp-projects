@@ -12,9 +12,13 @@ namespace InheritanceClassProject
         {
 
             Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
-
+       
             employee.SayName();
             Console.ReadLine();
+
+            IQuittable disgruntled = new Employee();
+            
+            disgruntled.Quit(out int x);
         }
     }
 }
