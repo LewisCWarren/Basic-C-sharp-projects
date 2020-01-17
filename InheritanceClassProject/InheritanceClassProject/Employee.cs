@@ -6,22 +6,51 @@ using System.Threading.Tasks;
 
 namespace InheritanceClassProject
 {
-    public class Employee : Person, IQuittable
+    public class Employee : Person
     {
         public override void SayName()
         {
             base.SayName();
             
         }
+        public int id { get; set; }
 
-
-        public void Quit(out int x)
+        public int EmployeeID()
         {
-            Console.WriteLine("Quitting");
-             x = 5;
+            id = 1;
+            return id;
         }
 
-        
+        public static Employee operator ==(Employee employee1, Employee employee2)
+        {
+            if (employee1.id == employee2.id)
+            {
+                Console.WriteLine("employee has the same ID as another ID.");
+            }
+
+            else
+            {
+                Console.WriteLine("Employee has a unique id");
+            }
+            return employee1;
+        }
+
+        public static Employee operator !=(Employee employee1, Employee employee2)
+        {
+            if (employee1.id != employee2.id)
+            {
+
+                Console.WriteLine("Employee has a unique id");
+            }
+
+            else
+            {
+                Console.WriteLine("employee has the same ID as another ID.");
+            }
+            return employee1;
+
+        }
+
 
 
     }

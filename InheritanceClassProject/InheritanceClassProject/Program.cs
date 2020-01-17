@@ -16,9 +16,17 @@ namespace InheritanceClassProject
             employee.SayName();
             Console.ReadLine();
 
-            IQuittable disgruntled = new Employee();
             
-            disgruntled.Quit(out int x);
+
+            Employee employee1 = new Employee() { FirstName = "Dave", LastName = "Jenkins", id = 1 };
+            Employee employee2 = new Employee() { FirstName = "Dave", LastName = "Mathews", id = 1 };
+
+            employee = employee1 == employee2;
+            Console.ReadLine();
+
+
+
+
         }
     }
 }
