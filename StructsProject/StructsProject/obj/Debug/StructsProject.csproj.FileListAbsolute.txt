@@ -1,0 +1,7 @@
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\StructsProject\StructsProject\bin\Debug\StructsProject.exe.config
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\StructsProject\StructsProject\bin\Debug\StructsProject.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\StructsProject\StructsProject\bin\Debug\StructsProject.pdb
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\StructsProject\StructsProject\obj\Debug\StructsProject.csprojAssemblyReference.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\StructsProject\StructsProject\obj\Debug\StructsProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\StructsProject\StructsProject\obj\Debug\StructsProject.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\StructsProject\StructsProject\obj\Debug\StructsProject.pdb
