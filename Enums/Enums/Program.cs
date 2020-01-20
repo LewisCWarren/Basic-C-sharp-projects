@@ -11,44 +11,44 @@ namespace Enums
         static void Main(string[] args)
         {
             Console.WriteLine("please enter a day of the week");
-            string userDay = Console.ReadLine();
-            
-
-       
 
 
-        List<DaysOfTheWeek> days = new List<DaysOfTheWeek>();
-            days.Add(DaysOfTheWeek.Sunday);
-            days.Add(DaysOfTheWeek.Monday);
-            days.Add(DaysOfTheWeek.Tuesday);
-            days.Add(DaysOfTheWeek.Wednesday);
-            days.Add(DaysOfTheWeek.Thursday);
-            days.Add(DaysOfTheWeek.Friday);
-            days.Add(DaysOfTheWeek.Saturday);
 
-            for (int i = 0; i < days.Count; i++)
+
+
+            try
             {
-                string day = Convert.ToString(days[i]);
-                
-                bool userInput = userDay == day;
 
-                if (userInput == true)
+                string value = Console.ReadLine();
+                bool success = Enum.TryParse<DaysOfTheWeek>(value, true, out DaysOfTheWeek result);
+
+                if (success == true)
                 {
-                    Console.WriteLine(day);
-                    Console.WriteLine("yes, that is a day of the week.");
+                    Console.WriteLine("Yes, that is a day of the week: {0}", result);
                 }
-
-                
-                
-
-                
+                else
+                {
+                    throw new Exception();
+                }
             }
 
-            
+            catch 
+            {
+                Console.WriteLine("Please enter a valid day of the week");
+            }
+
             Console.ReadLine();
-            
+
+
+
+
         }
     }
+
+    
+      
+
+        
 
     public enum DaysOfTheWeek
     {
