@@ -1,0 +1,7 @@
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\LambdaProject\LambdaProject\bin\Debug\LambdaProject.exe.config
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\LambdaProject\LambdaProject\bin\Debug\LambdaProject.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\LambdaProject\LambdaProject\bin\Debug\LambdaProject.pdb
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\LambdaProject\LambdaProject\obj\Debug\LambdaProject.csprojAssemblyReference.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\LambdaProject\LambdaProject\obj\Debug\LambdaProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\LambdaProject\LambdaProject\obj\Debug\LambdaProject.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\LambdaProject\LambdaProject\obj\Debug\LambdaProject.pdb
