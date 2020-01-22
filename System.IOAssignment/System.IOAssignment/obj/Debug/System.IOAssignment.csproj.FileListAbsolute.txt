@@ -1,0 +1,7 @@
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\System.IOAssignment\System.IOAssignment\bin\Debug\System.IOAssignment.exe.config
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\System.IOAssignment\System.IOAssignment\bin\Debug\System.IOAssignment.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\System.IOAssignment\System.IOAssignment\bin\Debug\System.IOAssignment.pdb
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\System.IOAssignment\System.IOAssignment\obj\Debug\System.IOAssignment.csprojAssemblyReference.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\System.IOAssignment\System.IOAssignment\obj\Debug\System.IOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\System.IOAssignment\System.IOAssignment\obj\Debug\System.IOAssignment.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\System.IOAssignment\System.IOAssignment\obj\Debug\System.IOAssignment.pdb
