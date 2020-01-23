@@ -1,0 +1,7 @@
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\Pg.231Assignment\Pg.231Assignment\bin\Debug\Pg.231Assignment.exe.config
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\Pg.231Assignment\Pg.231Assignment\bin\Debug\Pg.231Assignment.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\Pg.231Assignment\Pg.231Assignment\bin\Debug\Pg.231Assignment.pdb
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\Pg.231Assignment\Pg.231Assignment\obj\Debug\Pg.231Assignment.csprojAssemblyReference.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\Pg.231Assignment\Pg.231Assignment\obj\Debug\Pg.231Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\Pg.231Assignment\Pg.231Assignment\obj\Debug\Pg.231Assignment.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\Pg.231Assignment\Pg.231Assignment\obj\Debug\Pg.231Assignment.pdb
