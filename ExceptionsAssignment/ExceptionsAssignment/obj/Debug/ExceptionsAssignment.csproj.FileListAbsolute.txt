@@ -1,0 +1,7 @@
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.exe.config
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.pdb
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.csprojAssemblyReference.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.exe
+C:\Users\Student\Basic-C-Sharp-Projects\Basic-C-sharp-projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.pdb
